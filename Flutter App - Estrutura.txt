@@ -1,0 +1,20 @@
+lib/
+├── main.dart                      # Entrada do app
+├── core/
+│   └── theme/
+│       ├── app_colors.dart        # Cores do app
+│       └── app_theme.dart         # Tema Material
+├── services/
+│   └── api_service.dart           # Comunicação com API PHP
+├── widgets/
+│   ├── widgets.dart               # Exportações
+│   ├── app_text_field.dart        # Campo de texto customizado
+│   ├── app_button.dart            # Botões customizados
+│   └── app_widgets.dart           # Outros widgets (Card, Avatar, etc)
+└── screens/
+    ├── login_screen.dart          # Tela de login
+    ├── register_screen.dart       # Tela de cadastro
+    ├── dashboard_screen.dart      # Tela principal
+    ├── profile_screen.dart        # Tela de perfil
+    ├── forgot_password_screen.dart # Esqueci senha
+    └── reset_password_screen.dart  # Redefinir senha
