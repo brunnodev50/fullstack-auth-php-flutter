@@ -1,1 +1,32 @@
+Inicie o VS Code
+Caso ainda não esteja aberto, abra o VS Code pesquisando-o com o Spotlight ou abrindo-o manualmente a partir do diretório onde está instalado.
 
+Adicione a extensão Flutter ao VS Code.
+Para adicionar as extensões Dart e Flutter ao VS Code, visite a página da extensão Flutter no Marketplace e clique em Instalar . Se o seu navegador solicitar, permita que ele abra o VS Code.
+
+Instale o Flutter com o VS Code
+Abra a paleta de comandos no VS Code.
+
+Vá para Exibir > Paleta de Comandos ou pressione Control+ Shift+ P.
+
+Na paleta de comandos, digite flutter.
+
+Selecione Flutter: Novo Projeto .
+
+O VS Code solicitará que você localize o SDK do Flutter no seu computador. Selecione " Baixar SDK" .
+
+Quando a caixa de diálogo Selecionar pasta para o SDK do Flutter for exibida, escolha onde deseja instalar o Flutter.
+
+Clique em Clonar Flutter .
+
+Durante o download do Flutter, o VS Code exibe esta notificação pop-up:
+
+Downloading the Flutter SDK. This may take a few minutes.
+
+Este download levará alguns minutos. Se suspeitar que o download travou, clique em Cancelar e inicie a instalação novamente.
+
+Clique em Adicionar SDK ao PATH .
+
+Quando a operação for bem-sucedida, uma notificação será exibida:
+
+The Flutter SDK was added to your PATH
