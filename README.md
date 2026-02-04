@@ -11,10 +11,10 @@ Sistema completo de autenticação com backend em **PHP** e aplicativo mobile em
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/login.png" width="200" alt="Login">
-  <img src="screenshots/register.png" width="200" alt="Cadastro">
-  <img src="screenshots/dashboard.png" width="200" alt="Dashboard">
-  <img src="screenshots/profile.png" width="200" alt="Perfil">
+  <img src="https://github.com/user-attachments/assets/72376198-89f6-467c-a3bd-252b1fbb1908" width="200" alt="Login">
+  <img src="https://github.com/user-attachments/assets/c82b060b-66c2-4448-9723-b54a9404cb5c" width="200" alt="Cadastro">
+  <img src="https://github.com/user-attachments/assets/0595813e-33cf-4637-a397-a7af61e86fbc" width="200" alt="Dashboard">
+  <img src="https://github.com/user-attachments/assets/3422f0ac-7a17-4c31-9cf5-c4f43e2fda63" width="200" alt="Perfil">
 </p>
 
 ---
