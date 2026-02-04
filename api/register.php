@@ -2,7 +2,7 @@
 // api/register.php
 require 'config_api.php';
 
-// Recebe JSON do React Native
+// Recebe JSON do Flutter
 $data = json_decode(file_get_contents("php://input"), true);
 
 if (isset($data['nome']) && isset($data['email']) && isset($data['senha'])) {
@@ -32,4 +32,5 @@ if (isset($data['nome']) && isset($data['email']) && isset($data['senha'])) {
 } else {
     echo json_encode(["success" => false, "message" => "Preencha todos os campos."]);
 }
+
 ?>
