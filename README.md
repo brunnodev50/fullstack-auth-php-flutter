@@ -11,13 +11,21 @@ Sistema completo de autenticação com backend em **PHP** e aplicativo mobile em
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72376198-89f6-467c-a3bd-252b1fbb1908" width="200" alt="Login">
-  <img src="https://github.com/user-attachments/assets/c82b060b-66c2-4448-9723-b54a9404cb5c" width="200" alt="Cadastro">
-  <img src="https://github.com/user-attachments/assets/0595813e-33cf-4637-a397-a7af61e86fbc" width="200" alt="Dashboard">
-  <img src="https://github.com/user-attachments/assets/3422f0ac-7a17-4c31-9cf5-c4f43e2fda63" width="200" alt="Perfil">
+  <img src="https://github.com/user-attachments/assets/810a5649-a7c8-4612-9669-9acdcb0e605d" width="200" alt="Login">
+  <img src="https://github.com/user-attachments/assets/06e8cad8-aaf4-40e1-8323-3df4c4b58171" width="200" alt="Cadastro">
+  <img src="https://github.com/user-attachments/assets/9104740f-4b18-4b6b-9698-2542db4c40f5" width="200" alt="Dashboard">
+  <img src="https://github.com/user-attachments/assets/b5cae7a7-349a-473c-806f-d69f7921441d" width="200" alt="Perfil">
+  <img src="https://github.com/user-attachments/assets/ea081b91-983e-4e02-89fc-23db2595c60d" width="200" alt="Esqueceu Senha">
+  <img src="https://github.com/user-attachments/assets/6668ad78-c801-4f66-a9d8-6657393e1b45" width="200" alt="Reset Senha">
+
 </p>
 
----
+
+
+## 📱 Diagrama Entidade-Relacionamento - DER
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/feadb7cf-25b7-4e9a-817d-c0638b0ca075" width="200" alt="DER">
+</p>
 
 ## ✨ Funcionalidades
 
