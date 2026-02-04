@@ -8,7 +8,7 @@ class ApiService {
   // ============================================================
   // CONFIGURAÇÃO - Altere aqui sua URL base
   // ============================================================
-  static const String baseUrl = 'https://bruteste.cloud';
+  static const String baseUrl = 'https://sua_url';
   static const String apiUrl = '$baseUrl/api';
   
   // Timeout para requisições
